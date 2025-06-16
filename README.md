@@ -1,4 +1,5 @@
 # Build a Multi-Page Portfolio Website using Next.js
+The course is available at: https://www.coursera.org/learn/nextjs-for-beginners-multi-page-portfolio-website/.
 
 The outome of the project is to create a multi-page website with optimized navigation using Next.js. 
 ```bash
