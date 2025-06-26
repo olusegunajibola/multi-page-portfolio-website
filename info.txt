@@ -1,3 +1,6 @@
 download using powershell
 
 Invoke-WebRequest $url -OutFile $filename
+
+publish to github pages:
+https://www.coursera.org/learn/introduction-html-css-javascript/ungradedWidget/VZ4Z7/optional-publish-your-portfolio-to-github-pages
