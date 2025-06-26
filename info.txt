@@ -1,0 +1,3 @@
+download using powershell
+
+Invoke-WebRequest $url -OutFile $filename
